@@ -54,8 +54,8 @@ const PatientForm = () => {
             iconAlt="user"
           />
 
-          <Button className="bg-fuchsia-600 text-white" type="submit">
-            Submit
+          <Button className="bg-fuchsia-800 hover:bg-fuchsia-600">
+            submit
           </Button>
         </form>
       </Form>
