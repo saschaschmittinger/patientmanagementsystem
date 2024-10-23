@@ -36,11 +36,11 @@ export default function Home() {
         </section>
 
         <Image
-          src="/assets/images/onboarding-img.png"
+          src="/assets/images/sticky-slide-02.jpg"
           alt="onboarding"
           height={1000}
           width={1000}
-          className="side-img max-w-[50%]"
+          className="side-img max-w-[50%] object-cover"
         />
       </div>
     </>
